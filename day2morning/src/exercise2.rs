@@ -1,6 +1,3 @@
-// TODO: remove this when you're done with your implementation.
-#![allow(unused_variables, dead_code)]
-
 #[derive(Debug, PartialEq, Clone, Copy)]
 pub struct Point(i32, i32);
 
